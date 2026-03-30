@@ -1,0 +1,8 @@
+streamlit>=1.34
+pandas
+numpy
+hashlib
+openpyxl
+scikit-learn           # ML model
+matplotlib
+seaborn
